@@ -1,7 +1,7 @@
 
 import nhlstats.NHLStatistics;
 
-public class Main {
+public class MainProgram {
 
     public static void main(String[] args) {
 
